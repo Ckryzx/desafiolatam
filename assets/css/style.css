@@ -84,11 +84,11 @@ body {
     }
   
     .menu {
-      display: none; /* Ocultamos el menú en móviles */
+      display: none; 
     }
   
     .menu-btn {
-      display: block; /* Mostramos solo el ícono de hamburguesa */
+      display: block; 
     }
   
     .brand-name {
